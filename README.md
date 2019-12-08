@@ -46,6 +46,8 @@ For this you need to download all the files from the following folder.
 
 https://drive.google.com/open?id=1w6atfLocHpEAKguwMzirgU8rPSqinLdt
 
+. For n gram - The testing file has lesser samples than it was tested on.
+
 
 
 
