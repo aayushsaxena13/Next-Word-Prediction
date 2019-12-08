@@ -1,7 +1,7 @@
 # Next-Word-Prediction
 Our problem statement is to predict the next word of a sentence given its previous words and a corpus for training the model. We have trained neural models and n-gram language models to predict the next word of a sequence.
 
-LSTM Model
+**LSTM Model**
 FileName: NextWordPrediction_LSTM_optimized-GPU.ipynb
 
 This code needs to be run on Google Collab(25 GB RAM) due to large memory requirements, unless you have a big RAM.
@@ -23,7 +23,7 @@ You can then access it from the code using the path 'drive/My Drive/Next Word Pr
 You can run the code sequentially cell by cell in the notebook.
 
 
-Feature Engineering Code:
+**Feature Engineering Code:**
 
 FileName: NextWordPrediction-FeatureEngineering.ipynb
 
@@ -38,7 +38,7 @@ https://github.com/mmihaltz/word2vec-GoogleNews-vectors
 And then run the notebook cell by cell.
 
 
-N-gram Model with Laplace smoothing
+**N-gram Model with Laplace smoothing**
 FileName: Word_Prediction_Laplace.ipynb
 
 Run the code from the block "For testing the model"
