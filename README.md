@@ -2,7 +2,8 @@
 Our problem statement is to predict the next word of a sentence given its previous words and a corpus for training the model. We have trained neural models and n-gram language models to predict the next word of a sequence.
 
 **LSTM Model**
-FileName: NextWordPrediction_LSTM_optimized-GPU.ipynb
+
+**FileName: NextWordPrediction_LSTM_optimized-GPU.ipynb**
 
 This code needs to be run on Google Collab(25 GB RAM) due to large memory requirements, unless you have a big RAM.
 Google Collab - Set the runtime to GPU. Since it uses GPU based libraries.
@@ -25,7 +26,7 @@ You can run the code sequentially cell by cell in the notebook.
 
 **Feature Engineering Code:**
 
-FileName: NextWordPrediction-FeatureEngineering.ipynb
+**FileName: NextWordPrediction-FeatureEngineering.ipynb**
 
 Get the emails dataset from Kaggle.(1GB file)
 https://www.kaggle.com/wcukierski/enron-email-dataset
@@ -39,7 +40,8 @@ And then run the notebook cell by cell.
 
 
 **N-gram Model with Laplace smoothing**
-FileName: Word_Prediction_Laplace.ipynb
+
+**FileName: Word_Prediction_Laplace.ipynb**
 
 Run the code from the block "For testing the model"
 For this you need to download all the files from the following folder.
